@@ -32,7 +32,7 @@
 
 
 
-- 🔭 I’m currently working on [Tripsure](https://tripsure-client.web.app/)
+- 🔭 I’m currently working on [POS]()
 
 - 🌱 I’m currently learning **Redux**
 
